@@ -212,7 +212,7 @@ int main() {
                 running = false;
                 break;
             default:
-                cout << "Error: Please enter a number between 1 and 4." << endl;
+                cout << "Error: Please enter a number bestween 1 and 4." << endl;
         }
 
         cout << endl;
